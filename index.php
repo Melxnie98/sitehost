@@ -8,7 +8,7 @@
 <body>
     <div>
         <?php
-        // SiteHost API details
+        // API details
         $api_server = 'https://api.demo.sitehost.co.nz';
         $api_version = '1.0';
         $api_key = 'd17261d51ff7046b760bd95b4ce781ac';
